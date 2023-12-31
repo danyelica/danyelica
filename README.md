@@ -7,11 +7,11 @@
 <a href="https://www.goodreads.com/user/show/32025814-dany-lica-dayane" target="_blank"><img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white"/></a>
 
 <img align="right" height="200px" src="https://media.tenor.com/ClQUyrcq3xsAAAAC/rachel-friends.gif"/>
-<p>I'm <b>Dany</b>, a 24 year old young woman who just found out what loves to work with.<br> I'm basically Rachel Green from Brazil. Oh yes, I'm from Caicó (a REALLY hot city far from the beach), in Brazil 🇧🇷.<br> My pronouns are: <i>she/her</i>, and I'm a proud <b>bissexual</b> 🌈🏳‍🌈</p>
+<p>I'm <b>Dany</b>, a 25 year old young woman who just found out what loves to work with.<br> I'm basically Rachel Green from Brazil. Oh yes, I'm from Caicó (a REALLY hot city far from the beach), in Brazil 🇧🇷.<br> My pronouns are: <i>she/her</i>, and I'm a proud <b>bissexual</b> 🌈🏳‍🌈</p>
 <p>When I was 16 years old I got into college to get my Mathematics degree, because I love studying math, logic and I think all kinds of sciences are fascinating. <br>I don't regret it at all, but unfortunately that young girl picked the wrong science <br> back then, but better later then never. Now I know exactly what science I want<br> to work with and that's why I started learning to code 😉</p>
 
 ## Abilities <img height="45em" src="https://media.tenor.com/LtF6lgB8FdsAAAAj/mochi-peach.gif"/>
-<p>I am a Full Stack Developer, with means I can do the Back-end, Front-end and the integration between them. Check out the technologies I can work with: </p>
+<p>I am a Full Stack Developer, wich means I can do the Back-end, Front-end and the integration between them. Check out the technologies I can work with: </p>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
