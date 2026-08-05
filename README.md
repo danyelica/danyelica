@@ -7,8 +7,8 @@
 <a href="https://www.goodreads.com/user/show/32025814-dany-lica-dayane" target="_blank"><img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white"/></a>
 
 <img align="right" height="200px" src="https://media.tenor.com/ClQUyrcq3xsAAAAC/rachel-friends.gif"/>
-<p>I'm <b>Dany</b>, a 27 year old young woman who just found out what loves to work with.<br> I'm basically Rachel Green from Brazil. Oh yes, I'm from Caicó (a REALLY hot city far from the beach), in Brazil 🇧🇷.<br> My pronouns are: <i>she/her</i>, and I'm a proud <b>bissexual</b> 🌈🏳‍🌈</p>
-<p>When I was 16 years old I got into college to get my Mathematics degree, because I love studying math, logic and I think all kinds of sciences are fascinating. <br>I don't regret it at all, but unfortunately that young girl picked the wrong science <br> back then, but better later then never. Now I know exactly what science I want<br> to work with and that's why I started learning to code 😉</p>
+<p>I'm <b>Dany</b>, a 28 year old who just found out what loves to work with.<br> I'm basically Rachel Green from Brazil. Oh yes, I'm from Caicó (a REALLY hot city far from the beach), in Brazil 🇧🇷.<br> My pronouns are: <i>she/her</i>.
+<p>When I was 16 years old I got into college to get my Mathematics degree, because I love studying math, logic and I think all kinds of sciences are fascinating. <br>I don't regret it at all, but unfortunately that young girl picked the wrong science <br> back then, but better later then never. Now I know exactly what science I want<br> to work with and that's why I started working as a developer, and I've be working on it for more then 3 years 😉</p>
 
 ## Abilities <img height="45em" src="https://media.tenor.com/LtF6lgB8FdsAAAAj/mochi-peach.gif"/>
 <p>I am a Full Stack Developer, wich means I can do the Back-end, Front-end and the integration between them. Check out the technologies I can work with: </p>
@@ -24,12 +24,15 @@
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claudecode&logoColor=white)
+![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
